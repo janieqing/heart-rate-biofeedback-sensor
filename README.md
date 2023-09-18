@@ -1,4 +1,4 @@
-# PPG-Sensor
+# Photoplethymosgraphy Sensor
 Biomedical Engineering Science Fair Project
 
 ## Download Software
@@ -6,4 +6,8 @@ Biomedical Engineering Science Fair Project
 Arduino Libraries Needed:
 - EmotiBit MAX30101 SparkFun
 - SparkFun MAX3010x Pulse and Proximity Sensor Library
+
+#### Download Processing.Org
+Processing.Org Libraries Needed:
+- Minum
   
