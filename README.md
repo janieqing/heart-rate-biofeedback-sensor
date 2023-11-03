@@ -2,7 +2,7 @@
 Biomedical Engineering Science Fair Project - 2023 <br>
 Tidewater and Virginia State Science and Engineering Fair <br>
 Regional Awards: 2nd Award of Excellence (Overall), 1st Behavioral Science, Regeneron Biomedical Scientist Award <br>
-State Awards: 3rd Biomedical Engineering and Health Sciences <br>
+State Awards: 3rd Biomedical Engineering and Health Sciences 
 
 ## Download Software
 #### Download Arduino 
